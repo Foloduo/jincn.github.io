@@ -1,0 +1,385 @@
+/* *{margin:0;padding:0;} */
+.main-wrapper
+{
+	background-image: url('../img/Fallout4_E3.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}
+header{background:rgba(0,0,0,0.3);}
+nav
+{
+	background: #111923;
+	height:50px;
+	width:100%;
+	position:fixed;top:0;
+	z-index: 999;
+}
+#banner
+{
+	margin-top:50px;
+	height:700px;
+}
+nav ul
+{
+	list-style:none;
+	margin:0;
+}
+nav ul li
+{
+	display:inline-block;
+	line-height: 50px;
+	float:right;
+	margin-right:20px;
+}
+nav ul li a
+{
+	line-height: 50px;
+	text-decoration:none;
+	display:inline-block;
+	height:50px;
+	color:#fff;
+}
+nav ul li.logo
+{
+	float:left;
+	font-weight: 700;
+	margin-left: 30px;
+	font-size: 20px;
+	letter-spacing: 2px;
+}
+nav ul .logo a::first-letter 
+{
+	text-transform: uppercase;
+	font-size: 30px;
+}
+/* nav ul .logo a:hover::first-letter{
+	transform:rotate(-60deg);
+} */
+#banner .inner
+{
+	max-width:300px;
+	text-align: center;
+	margin:0 auto;
+	position:relative;
+	top:200px;
+	color:#fff;
+}
+#banner .inner h2
+{
+	font-size: 30px;
+	font-weight:bold;
+	margin:0 auto 10px;
+	padding:20px 0;
+	border-top:2px solid #fff;
+	border-bottom:2px solid #fff;
+	width:200px;
+	text-shadow:0 2px 0 black;
+}
+#banner .inner p
+{
+	line-height: 30px;
+}
+.me
+{
+	display:block;
+	width:60px;
+	background:rgb(58, 110, 147);
+	padding:10px 25px;
+	margin: 20px auto;
+	border-radius:3px;
+}
+.me a
+{
+	color:#eee;
+	text-decoration: none;
+	font-size: 17px;
+}
+#banner .inner .more
+{
+	margin-top: 200px;
+	color:white;
+	font-size: 15px;
+}
+#banner .inner .more span
+{
+	text-shadow:1px 1px 3px #69c;
+}
+.s1
+{
+	text-align: center;
+	padding:100px 0;
+	color:#fff;
+	background:#77919d;
+}
+.s1 h2
+{
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+.s1 p
+{
+	font-size: 16px;
+	font-weight: bold;
+	margin:20px 0;
+}
+.hr
+{
+	height:1px;
+	width:300px;
+	margin:10px auto;
+	background:#F6B352;
+	opacity:0.5;
+}
+.s1 .iconAll
+{
+	margin:50px auto;
+}
+.s1 .icon
+{
+	display:inline-block;
+	background-color: #65CCB9;
+	text-align: center;
+	width:50px;
+	height:50px;
+	line-height: 50px;
+	padding:10px;
+	font-weight: 400;
+	font-size: 50px;
+	margin:20px 30px 0;
+	transform:rotate(45deg);
+}
+/* .s2{background:#333f4a;} */
+/* .gameitr1{overflow: hidden;} */
+.s2 .gameitr1 img
+{
+	width:50%;
+	vertical-align: middle;
+	/* font-size: 0; */
+}
+/* .s2 .gameitr1 img:hover
+{
+	transform:scale(1.2, 1.2);
+} */
+.s2 .gameitr1 .text_section
+{
+	width:50%;
+	color:#fff;
+	/* text-align: left; */
+	float:right;
+}
+.s2 .gameitr1 .text_section div
+{
+	padding:20px;
+}
+.s2 .gameitr1 .text_section div h2
+{
+	font-size: 50px;
+	margin-bottom: 15px;
+	margin-top: 130px;
+}
+.s2 .gameitr1 .text_section div p
+{
+	font-size: 18px;
+	letter-spacing: 2px;
+	word-spacing: 3px;
+	line-height: 200%;
+}
+.s2 .gameitr2 img
+{
+	width:50%;
+	vertical-align: middle;
+	/* font-size: 0; */
+}
+.s2 .gameitr2 .text_section
+{
+	width:50%;
+	color:#fff;
+	/* text-align: left; */
+	float:left;
+}
+.s2 .gameitr2 .text_section div
+{
+	padding:20px;
+}
+.s2 .gameitr2 .text_section div h2
+{
+	font-size: 50px;
+	margin-bottom: 15px;
+	margin-top: 130px;
+}
+.s2 .gameitr2 .text_section div p
+{
+	font-size: 18px;
+	letter-spacing: 2px;
+	word-spacing: 3px;
+	line-height: 200%;
+}
+.s2 .gameitr3 img
+{
+	width:50%;
+	vertical-align: middle;
+	/* font-size: 0; */
+}
+.s2 .gameitr3 .text_section
+{
+	width:50%;
+	color:#fff;
+	/* text-align: left; */
+	float:right;
+}
+.s2 .gameitr3 .text_section div
+{
+	padding:20px;
+}
+.s2 .gameitr3 .text_section div h2
+{
+	font-size: 50px;
+	margin-bottom: 15px;
+	margin-top: 140px;
+}
+.s2 .gameitr3 .text_section div p
+{
+	font-size: 18px;
+	letter-spacing: 2px;
+	word-spacing: 3px;
+	line-height: 200%;
+}
+.gameitr1,.gameitr2,.gameitr3{font-size: 0;}
+.gameitr1{background-color:#333f4a;}
+.gameitr2{background-color:#2B393C}
+.gameitr3{background-color:#314150;}
+.s3
+{
+	background:#5C598E;
+	color:#fff;
+}
+.s3 .heading
+{
+	margin:0 auto;
+	text-align:center;
+	width:60%;
+	padding-top: 100px;
+}
+.s3 .heading h2
+{
+	font-size: 40px;
+	font-weight: 700;
+	color:#fff;
+}
+.s3 .heading span
+{
+	display:block;
+	width:30%;
+	margin:30px auto;
+	height:1px;
+	background:#fff;
+	box-shadow: -1px -1px 4px #fff;
+}
+.s3 .heading p
+{
+	color:#fff;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	padding:0 120px;
+}
+.s3 .cardG
+{
+	width:40%;
+	margin:20px auto 0;
+}
+.fix::after
+{
+	content:"";
+	display:table;
+	clear:both;
+}
+.s3 .cardG .card
+{
+	float:left;
+	width:50%;
+	min-height:200px;
+	/* border:1px solid #fff; */
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding:40px;
+}
+.s3 .cardG .card h2
+{
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+.s3 .cardG .card:nth-of-type(1){background:rgba(0,0,0,0.05);}
+.s3 .cardG .card:nth-of-type(2){background:rgba(0,0,0,0.09);}
+.s3 .cardG .card:nth-of-type(3){background:rgba(0,0,0,0.13);}
+.s3 .cardG .card:nth-of-type(4){background:rgba(0,0,0,0.17);}
+.s3 .cardG .card:nth-of-type(5){background:rgba(0,0,0,0.21);}
+.s3 .cardG .card:nth-of-type(6){background:rgba(0,0,0,0.25);margin-bottom: 25px;}
+
+footer
+{
+	background-color: #111923;
+	color:#fff;
+	height:150px;
+}
+footer .contact
+{
+	display:block;
+	width:40%;
+	/* border:1px solid #fff; */
+	margin:0 auto 20px;
+	padding:10px;
+	text-align: center;
+}
+footer .contact li
+{
+	display:inline-block;
+	font-size:18px;
+	padding: 30px 10px 10px 10px;
+	cursor:pointer;
+}
+footer .foot
+{
+	
+	text-align: center;
+}
+@font-face
+{
+	font-family: "steam";
+	src:url("../fonts/icomoon.ttf") format("truetype"),url("../fonts/icomoon.woff") format("woff"),url("../fonts/icomoon.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+.icon {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'steam' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-facebook:before {
+    content: "\e900";
+}
+.icon-feed:before {
+    content: "\e901";
+}
+.icon-bird:before {
+    content: "\e902";
+}
+.icon-earth:before {
+    content: "\e903";
+}
+.icon-pointer:before {
+    content: "\e904";
+}
+.icon-arrow-down:before {
+    content: "\e905";
+}
