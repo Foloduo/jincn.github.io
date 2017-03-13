@@ -1,0 +1,46 @@
+.box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background-color: #eee
+}
+
+.box,
+.left,
+.mid,
+.right,
+.small-box {
+    padding: 20px;
+    border: 1px solid #999;
+}
+
+.left,
+.mid,
+.right {
+    background-color: #fff;
+}
+
+.small-box {
+    background-color: #eee
+}
+
+.left {
+    flex-basis: 200px;
+    margin-right: 20px;
+    /*width: 200px;*/
+}
+
+.right {
+    margin-left: 20px;
+    flex-basis: 120px;
+    /*width: 120px;*/
+}
+
+.mid {
+    flex-grow: 1;
+}
+
+.small-box {
+    width: 80px;
+    height: 80px;
+}
