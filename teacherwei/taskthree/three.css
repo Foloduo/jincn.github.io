@@ -9,12 +9,18 @@
     background-color: #eee
 }
 
+.box:before,
 .box:after {
-    content: ' ';
-    display: block;
-    height: 0;
-    width: 0;
+    content: '';
+    display: table;
+}
+
+.box:after {
     clear: both;
+}
+
+.box {
+    *zoom: 1;
 }
 
 .box,
