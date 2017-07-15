@@ -18,7 +18,7 @@ WeChat: toofirst
 * blog: http://jinchn.leanote.com/
 * github: https://github.com/ysneo
 * 职位: web前端开发
-* 薪资： 15K ~ 18K
+* 薪资： 13K ~ 17K
 
 ---
 
