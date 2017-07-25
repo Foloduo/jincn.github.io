@@ -32,6 +32,7 @@ WeChat: toofirst
 >
 > 去当地水文局进行系统部署。
 >
+>基于Asp.net MVC和RESTful API的Web技术开发，熟练使用JQuery、BootStrap、 RequireJs或其它主流Web技术。
 > 技术栈vue、typescript、bootstrap、jquery、amchart、openlayers。
 
 
