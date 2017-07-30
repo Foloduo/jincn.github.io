@@ -36,7 +36,7 @@ WeChat: toofirst
 > 技术栈vue、typescript、bootstrap、jquery、amchart、openlayers。
 
 
- > ​转行 :arrow_up:
+ > ​转行 ↑
 
 #### 上海新技电子有限公司 [ 2014.7 ~ 2016.05 ]
 
