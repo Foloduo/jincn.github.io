@@ -6,7 +6,7 @@ Phone: 15216611502
 
 Email: jin.chn@outlook.com
 
-WeChat: toofirst 
+WeChat: toofirst
 
 ---
 
@@ -36,9 +36,9 @@ WeChat: toofirst
 > 技术栈vue、typescript、bootstrap、jquery、amchart、openlayers。
 
 
- > ​转行 :arrow_up: 
+ > ​转行 :arrow_up:
 
-#### 上海新技电子有限公司 [ 2014.7 ~ 2016.05 ] 
+#### 上海新技电子有限公司 [ 2014.7 ~ 2016.05 ]
 
 > 产品认证，新品性能测试等
 
@@ -58,6 +58,8 @@ WeChat: toofirst
 * 了解sass、Node.js、Mongodb、c#、Sql
 * 具备良好的代码规范、代码注释、学习沟通及领悟能力
 
+## 作品
+https://ysneo.github.io/works/steamstore/index 静态页面
 
 ---
 
