@@ -59,7 +59,7 @@ WeChat: toofirst
 * 具备良好的代码规范、代码注释、学习沟通及领悟能力
 
 ## 作品
-https://ysneo.github.io/works/steamstore/index 静态页面
+[https://ysneo.github.io/works/steamstore/index](https://ysneo.github.io/works/steamstore/index) 静态页面
 
 ---
 
