@@ -14,7 +14,7 @@ WeChat: toofirst
 
 * 金辉、男、1991
 * 本科、上海师范大学(电子信息工程)、13届
-* 工作年限: web 开发 **2** 年
+* 工作年限: web 开发 2 年
 * Blog: http://jinchn.leanote.com/
 * Github: https://github.com/ysneo
 * 职位: web前端开发
