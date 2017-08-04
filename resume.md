@@ -52,10 +52,10 @@ WeChat: toofirst
 
 * 熟悉JavaScript准确地进行代码构建，实现系统/网站所需的动画效果以及交互效果
 * 熟悉Web前端技术，包括HTML(5)/CSS(3)/JavaScript/Ajax等，能够解决各种浏览器兼容性问题，能够独立完成与后台的数据交互
-* 熟悉框架、类库等，如Typescript，Vue、JQuery、Bootstrap、Amchart等
+* 熟悉框架、类库等，如Typescript，Vue、JQuery、Bootstrap等
 * 熟悉打包工具gulp,了解webpack
 * 熟悉版本控制Git/SVN
-* 了解sass、Node.js、Mongodb、c#、Sql
+* 了解sass、Node.js、c#、Sql
 * 具备良好的代码规范、代码注释、学习沟通及领悟能力
 
 ---
