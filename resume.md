@@ -60,7 +60,7 @@ WeChat: toofirst
 
 ---
 ## 作品
-[https://ysneo.github.io/works/steamstore/index](https://ysneo.github.io/works/steamstore/index) 静态页面
+[https://ysneo.github.io/works/steamstore/index](https://ysneo.github.io/works/steamstore/index)
 
 ---
 
