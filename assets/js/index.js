@@ -117,4 +117,5 @@ function draw() {
   document.onclick = i
   document.ontouchstart = i
   i()
+  setInterval(i, 3000)
 }
