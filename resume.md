@@ -1,20 +1,17 @@
 # 金辉的简历
-
+---
 ## 联系方式
-
-Phone: 15216611502
-
-Email: jin.chn@outlook.com
-
-WeChat: toofirst
+* Phone: 15216611502
+* Email: jin.chn@outlook.com
+* WeChat: toofirst
 
 ---
 
 ## 个人信息
 
 * 金辉、男、1991
-* 本科、上海师范大学(电子信息工程)、13届
-* 工作年限: web 开发 2 年
+* 本科、上海师范大学(电子信息工程)
+* 工作年限: web 开发 1.5 年
 * Blog: http://jinchn.leanote.com/
 * Github: https://github.com/ysneo
 * 职位: web前端开发
@@ -60,7 +57,8 @@ WeChat: toofirst
 
 ---
 ## 作品
-[https://ysneo.github.io/works/steamstore/index](https://ysneo.github.io/works/steamstore/index)
+* [https://ysneo.github.io/resume](https://ysneo.github.io/resume)
+* [https://ysneo.github.io/works/steamstore/index](https://ysneo.github.io/works/steamstore/index)
 
 ---
 
